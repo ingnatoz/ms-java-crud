@@ -144,3 +144,7 @@ GitHub.sublime-settings
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode,intellij+all,sublimetext,maven
+
+# Custom
+notes.txt
+.env
